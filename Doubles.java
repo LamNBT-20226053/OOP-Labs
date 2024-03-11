@@ -7,7 +7,7 @@ public class Doubles {
 		String strnum1, strnum2;
 		
 		//Enter two doubles as strings
-		strnum1 = JOptionPane.showInputDialog(null, "Please enter the first number: ", "Input the fisr number", JOptionPane.INFORMATION_MESSAGE);
+		strnum1 = JOptionPane.showInputDialog(null, "Please enter the first number: ", "Input the first number", JOptionPane.INFORMATION_MESSAGE);
 		strnum2 = JOptionPane.showInputDialog(null, "Please enter the second number: ", "Input the second number", JOptionPane.INFORMATION_MESSAGE);
 		
 		//Convert strings to doubles
